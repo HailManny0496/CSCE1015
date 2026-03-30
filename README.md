@@ -1,7 +1,2 @@
-# CSCE1015 
+# CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-MY NAME IS ELIAS
-## EUID
-ed0496
-FAVORITE FOOD
-PIZZA
