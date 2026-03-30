@@ -2,6 +2,6 @@
 Assignment repository for UNT CSCE1015
 MY NAME IS ELIAS
 ## EUID
-YOUR_EUID
-## PIZZA
+ed0496
+FAVORITE FOOD
 PIZZA
